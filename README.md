@@ -85,6 +85,13 @@ To access admin dashboard, redirect to `127.0.0.1:8000/admin-panel`
 
 <br><br>
 
+## Live Demo
+
+you can access live demo from this [link](https://www.ashraf-amer.com)
+
+to access admin dashboard follow this [link](https://www.ashraf-amer.com/admin-panel)
+
+
 ## Author
 
  Ashraf Amer
